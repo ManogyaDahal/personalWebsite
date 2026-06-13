@@ -13,5 +13,5 @@ If you want to checkout my #link("https://github.com/ManogyaDahal/")[github].
 
 == Contact:
 - mail: _him [at] manogyadahal [dot] com [dot] np_
-- matrix: _#link("@manogyadahal:matrix.org")[\@manogyadahal:matrix.org]_
+- matrix: _#link("https://matrix.to/#/@manogyadahal:matrix.org")[\@manogyadahal:matrix.org]_
 - resume: _#link("/resume.pdf")[manogyadahal/resume]_
