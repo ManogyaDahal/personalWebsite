@@ -2,7 +2,8 @@
 
 /* Center navigation in header */
 header nav {
-    position: fixed; /* or absolute */
+    position: absolute;
     left: 50vw;
     transform: translateX(-50%);
+    background: inherit;
 }
