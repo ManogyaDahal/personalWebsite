@@ -18,6 +18,7 @@ _site/%.html: content/%.typ
 assets:
 	@mkdir -p _site/assets
 	@cp -r assets/* _site/assets/
+	@mv _site/assets/resume.pdf _site/
 
 # A clean rule to remove generated files
 clean:
