@@ -1,1 +1,8 @@
 /* Modify this file to add your own custom styles */
+
+/* Center navigation in header */
+header nav {
+    position: fixed; /* or absolute */
+    left: 50vw;
+    transform: translateX(-50%);
+}

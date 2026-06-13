@@ -5,6 +5,8 @@
 
 
 = Intro
+Don't know How did you stumble upon here but since you are here have fun by knowing me.
+Hey, I am Manogya and this is my minuscule space on internet.
 #tufted.margin-note(
     image("../assets/woods.jpg", width: 80%),
 )
@@ -13,12 +15,9 @@
     Imagine being a tree ;)
   ],
 )
-Hey, I am Manogya and this is my minuscule space on internet.
-Don't know How did you stumble upon here but since you are here have fun by knowing me.
 
-
-I think this much information is apparently enough to know what I am currently using.\ 
-Hopefully, if you want to checkout my #link("https://github.com/ManogyaDahal/config")[config]. \ 
+Some tools that I use are mentioned and do let me know if you find someting interesting. 
+If you want to checkout my #link("https://github.com/ManogyaDahal/config")[config]. \ 
 ```````
                   -`                     manogya@Arch
                  .o+`                    ------------
@@ -41,4 +40,3 @@ Hopefully, if you want to checkout my #link("https://github.com/ManogyaDahal/con
 .`                                 `/    File Explorer: ranger
                                          Editor: neovim, zed
 ```````
-
