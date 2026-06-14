@@ -40,3 +40,10 @@ If you want to checkout my #link("https://github.com/ManogyaDahal/config")[confi
 .`                                 `/    File Explorer: ranger
                                          Editor: neovim, zed
 ```````
+// ring ring setup
+#html.elem("div", attrs: (
+  id: "webring",
+  style: "position: absolute; left: 50vw; transform: translateX(-50%); display: flex; justify-content: center;"
+))[
+  #html.elem("script", attrs: (src: "https://ringring.rajatdahal.com.np/webring.js"))
+]
